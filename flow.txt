@@ -1,0 +1,19 @@
+user query
+
+display user query
+
+save query to chat_history
+
+send the chat_history to llm
+
+get response from llm
+
+save response in chat_history
+
+display llm response
+
+
+
+
+
+user_prompt=st.chat_input("Ask Chatbot")
